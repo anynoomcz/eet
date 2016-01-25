@@ -12,20 +12,26 @@ Ing. Hanušem Weislem, generálním ředitelem
 
 
 ## 1 Předmět průzkumu trhu
+
 ### 1.1 Cíl průzkumu trhu
 Státní pokladna Centrum sdílených služeb, s. p. (dále jen „SPCSS“) vypisuje průzkum trhu za účelem získání informací o trhu služeb aplikačního vývoje pro projekty SPCSS v oblasti státní správy v roce 2015 a 2016. 
+
 ### 1.2 Rozsah průzkumu trhu
 Průzkum trhu slouží ke zjištění způsobilosti a připravenosti dodavatelů a jejich realizačních týmů v rozsahu relevantním pro návrhové, vývojové, testovací a dokumentační činnosti aplikačního vývoje a následné služby aplikační podpory. Průzkum obsahuje souhrn požadavků z různých aplikačních oblastí - jeho cílem není identifikovat dodavatele splňující všechny požadavky najednou, ale mapovat relevantní kompetence jednotlivých dodavatelů, případně jejich subdodavatelů.
 Průzkum trhu dále slouží ke zjištění očekávaných cen člověkodne realizačního týmu dodavatele.
+
 ### 1.3 Využití výsledků průzkumu trhu
 Výsledky průzkumu budou použity při přípravě a realizaci projektů SPCSS v oblasti služeb aplikačního vývoje v roce 2015 a 2016. V rámci budoucí spolupráce mohou být oslovení dodavatelé požádáni o potvrzení vybraných informací uvedených v rámci tohoto průzkumu, doplnění a doložení relevantními doklady nebo uvedením kontaktních osob. 
 Způsob zpracování a vyhodnocení výsledků průzkumu trhu, včetně podmnožiny informací použité k vyhodnocení, může být různý pro různé projekty SPCSS.  Proto uvítáme i částečné odpovědi.
+
 ### 1.4 Důvěrnost informací
 SPCSS považuje veškeré informace poskytnuté v rámci tohoto průzkumu za diskrétní a žádá tímto dodavatele, aby s nimi jako s diskrétními zacházeli. Veškeré informace poskytnuté ze strany dodavatelů v rámci tohoto průzkumu trhu budou na straně SPCSS považovány za diskrétní a SPCSS s nimi jako s diskrétními bude zacházet.
 
 
 ## 2 Požadované informace
+
 ### 2.1 Základní kvalifikační požadavky
+
 Základní kvalifikační požadavky splňuje dodavatel, 
 
 * a) který nebyl pravomocně odsouzen pro trestný čin spáchaný ve prospěch organizované zločinecké skupiny, trestný čin účasti na organizované zločinecké skupině, legalizace výnosů 
@@ -134,91 +140,54 @@ zkušenosti s přípravou, provedením a vyhodnocením výkonnostních testů
 N/A
 jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci
 
-2.3 Licenční požadavky 
+### 2.3 Licenční požadavky 
 Pro části aplikace vytvořené přímo pro projekty SPCSS požaduje SPCSS postoupení oprávnění k výkonu majetkových práv autorských SPCSS nebo zákazníkům SPCSS.
 Pro části aplikace, které jsou licencovaným produktem dodavatele (nebo jeho subdodavatele), již dříve použitým v jiných projektech, a pro které je dodavatel (nebo jeho subdodavatel) držitelem oprávnění k výkonu autorských práv nebo licence s možností úprav zdrojového kódu, požaduje SPCSS nevýhradní časově a množstevně neomezenou licenci s možností úprav zdrojového kódu a právem postoupit podlicenci nebo svoje oprávnění k jejímu užití zákazníkům SPCSS.
-2.4 Průměrná cena člověkodne 
+
+### 2.4 Průměrná cena člověkodne 
 Uveďte průměrnou cenu člověkodne pro vývojový projekt o referenční velikosti 3000 člověkodnů a trvání 6-9 měsíců.  Cenu uveďte ve třech kategoriích – expert, senior, junior. Pro účely srovnání uvažujte orientační rozpad referenčního projektu do kategorií 25% expert, 15% senior, 60% junior.
 Cenu uveďte absolutní částkou v českých korunách bez DPH. Uvedená cena musí obsahovat veškeré náklady dodavatele nutné k realizaci vývojového projektu. 
 
 
-3 Pokyny pro zpracování a členění odpovědi
-3.1 Pokyny pro zpracování odpovědi
+## 3 Pokyny pro zpracování a členění odpovědi
+
+### 3.1 Pokyny pro zpracování odpovědi
 Dodavatel může podat pouze jednu odpověď na průzkum trhu. 
 Odpověď předložte v českém jazyce, v elektronické formě e-mailem na níže uvedenou kontaktní adresu a v níže uvedeném termínu. 
 V odpovědi uveďte kontaktní osobu s e-mailem a telefonickým kontaktem pro případnou další komunikaci o projektech SPCSS v oblasti aplikačního vývoje. 
-3.2 Forma odpovědi na základní kvalifikační požadavky
+
+### 3.2 Forma odpovědi na základní kvalifikační požadavky
 Čestné prohlášení (sken) dodavatele o splnění všech základních kvalifikačních požadavků, s plným uvedením jejich znění.
-3.3 Forma odpovědi na požadavky způsobilosti a připravenosti dodavatele a jeho realizačního týmu
+
+### 3.3 Forma odpovědi na požadavky způsobilosti a připravenosti dodavatele a jeho realizačního týmu
 Odpovědi vypracujte formou vyplněných Excel tabulek v Příloze č. 1 (Jmenný seznam realizačního týmu), Příloze č. 2 (Matice technické způsobilosti) a příslušné sekce v Příloze č.3 (Ostatní požadavky), kde je uvedeno [doplní dodavatel] nebo formou výběru ANO/NE. Dále přiložte požadované sady životopisů členů expertního týmu a čestné prohlášení (sken) dodavatele o pravdivosti všech uvedených údajů. 
 Počet projektových referencí uvedený v Matici technické způsobilosti je doporučený, je možno uvést i nižší počet projektů prokazující částečné splnění dané kompetence. Stejnou projektovou referenci je možno použít na úrovni dodavatele i na úrovni členů týmů, pokud prokazuje jak způsobilost organizace, tak způsobilost členů týmu. Jednou projektovou referencí je možné prokázat i více kompetencí za předpokladu, že uvedená projektová reference zahrnuje zkušenosti z více požadovaných oblastí. Projektové reference členů týmu jsou považovány za osobní reference a mohou odkazovat na projekty jiných dodavatelů/zaměstnavatelů.
 Jména všech připojených souborů odpovědi označte prefixem, zkratkou jména dodavatele. 
-3.4 Forma odpovědi na licenční požadavky
+
+### 3.4 Forma odpovědi na licenční požadavky
 Odpovědi vypracujte formou vyplnění příslušné sekce Excel tabulky v Příloze č.3 (Ostatní požadavky), kde je uvedeno [doplní dodavatel].
 Jména všech připojených souborů odpovědi označte prefixem, zkratkou jména dodavatele.
-3.5 Forma odpovědi na průměrnou cenu člověkodne
+
+### 3.5 Forma odpovědi na průměrnou cenu člověkodne
 Odpovědi vypracujte formou vyplnění příslušné sekce Excel tabulky v Příloze č.3 (Ostatní požadavky), kde je uvedeno [doplní dodavatel].
 Jména všech připojených souborů odpovědi označte prefixem, zkratkou jména dodavatele.
-3.6 Použití subdodavatele
+
+### 3.6 Použití subdodavatele
 Jmenný seznam realizačního týmu může obsahovat pracovníky subdodavatele, v takovém případě musí být označen subdodavatelský vztah a uvedeno jméno firmy subdodavatele. 
 Kvalifikační a technické požadavky na úrovni organizace musí být splněny na úrovni dodavatele. 
-4 Poskytování dodatečných informací 
+
+## 4 Poskytování dodatečných informací 
 Kontaktní adresa SPCSS pro poskytování dodatečných informací je info@spcss.cz. Odpovědi odešle SPCSS v nejkratším možném termínu. Pokud nebude ze strany SPCSS rozhodnuto jinak, požadavky na dodatečné informace ani způsob a časování odpovědí neovlivňují lhůtu pro odevzdání odpovědí.
-5 Způsob a lhůta pro odevzdání odpovědí
+
+## 5 Způsob a lhůta pro odevzdání odpovědí
 Odpověď lze zaslat elektronicky e-mailem na adresu info@spcss.cz do úterý 12.5.2015, EoB.
 Odpovědi odevzdané po uplynutí lhůty nemusí být SPCSS zpracovány v rámci vyhodnocení průzkumu trhu a využity při přípravě projektů SPCSS.
-6 Přílohy
+
+## 6 Přílohy
 1. Jmenný seznam realizačního týmu
 2. Matice technické způsobilosti
 3. Ostatní požadavky
 
 
-
-
-
-Průzkum trhu
-
-
-Služby aplikačního vývoje
-
-
-
-
-
-7/10
-
-
-
-6/10
-
-
-
-
-Průzkum trhu
-
-
-Služby aplikačního vývoje
-
-
-
-
-Průzkum trhu
-
-
-Služby aplikačního vývoje
-
-
-
-10/10
-
-
-Průzkum trhu
-
-
-Služby aplikačního vývoje
-
-
-
-8/10
 
 
