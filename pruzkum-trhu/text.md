@@ -1,7 +1,8 @@
 
-# PRŮZKUM TRHU
-# SLUŽBY APLIKAČNÍHO VÝVOJE
-# Průzkum trhu provádí:
+# PRŮZKUM TRHU  
+SLUŽBY APLIKAČNÍHO VÝVOJE  
+
+## Průzkum trhu provádí:
 
 Zastoupený:
 
