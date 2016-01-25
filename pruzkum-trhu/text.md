@@ -184,9 +184,9 @@ Odpověď lze zaslat elektronicky e-mailem na adresu info@spcss.cz do úterý 12
 Odpovědi odevzdané po uplynutí lhůty nemusí být SPCSS zpracovány v rámci vyhodnocení průzkumu trhu a využity při přípravě projektů SPCSS.
 
 ## 6 Přílohy
-1. Jmenný seznam realizačního týmu
-2. Matice technické způsobilosti
-3. Ostatní požadavky
+1. [Jmenný seznam realizačního týmu](priloha-1.jpg)
+2. [Matice technické způsobilosti](priloha-1.jpg)
+3. [Ostatní požadavky](priloha-1.jpg)
 
 
 
