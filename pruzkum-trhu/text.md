@@ -1,6 +1,5 @@
 
-# PRŮZKUM TRHU  
-SLUŽBY APLIKAČNÍHO VÝVOJE  
+# PRŮZKUM TRHU SLUŽBY APLIKAČNÍHO VÝVOJE  
 
 ## Průzkum trhu provádí:
 
