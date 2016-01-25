@@ -4,7 +4,14 @@
 # Průzkum trhu provádí:
 
 Zastoupený:
-Státní pokladna Centrum sdílených služeb, s. p. se sídlem Na Vápence 915/14, 130 00 Praha 3 IČO: 03630919, DIČ: CZ03630919
+
+Státní pokladna Centrum sdílených služeb, s. p. 
+
+se sídlem Na Vápence 915/14, 
+
+130 00 Praha 3 
+
+IČO: 03630919, DIČ: CZ03630919
 
 Ing. Hanušem Weislem, generálním ředitelem
 
