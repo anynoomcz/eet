@@ -29,18 +29,27 @@ SPCSS považuje veškeré informace poskytnuté v rámci tohoto průzkumu za di
 Základní kvalifikační požadavky splňuje dodavatel, 
 a) který nebyl pravomocně odsouzen pro trestný čin spáchaný ve prospěch organizované zločinecké skupiny, trestný čin účasti na organizované zločinecké skupině, legalizace výnosů 
    z trestné činnosti, podílnictví, přijetí úplatku, podplacení, nepřímého úplatkářství, podvodu, úvěrového podvodu, včetně případů, kdy jde o přípravu nebo pokus nebo účastenství na takovém trestném činu, nebo došlo k zahlazení odsouzení za spáchání takového trestného činu; jde-li o právnickou osobu, musí tento požadavek splňovat jak tato právnická osoba, tak její statutární orgán nebo každý člen statutárního orgánu, a je-li statutárním orgánem dodavatele či členem statutárního orgánu dodavatele právnická osoba, musí tento požadavek splňovat jak tato právnická osoba, tak její statutární orgán nebo každý člen statutárního orgánu této právnické osoby; podává-li nabídku či žádost o účast zahraniční právnická osoba prostřednictvím své organizační složky, musí požadavky podle tohoto písmene splňovat vedle uvedených osob rovněž vedoucí této organizační složky; tento základní kvalifikační požadavek musí dodavatel splňovat jak ve vztahu k území České republiky, tak k zemi svého sídla, místa podnikání či bydliště,
+
 b) který nebyl pravomocně odsouzen pro trestný čin, jehož skutková podstata souvisí s předmětem podnikání dodavatele podle zvláštních právních předpisů nebo došlo k zahlazení odsouzení 
    za spáchání takového trestného činu; jde-li o právnickou osobu, musí tuto podmínku splňovat jak tato právnická osoba, tak její statutární orgán nebo každý člen statutárního orgánu, a je-li statutárním orgánem dodavatele či členem statutárního orgánu dodavatele právnická osoba, musí tento požadavek splňovat jak tato právnická osoba, tak její statutární orgán nebo každý člen statutárního orgánu této právnické osoby; podává-li nabídku či žádost o účast zahraniční právnická osoba prostřednictvím své organizační složky, musí požadavek podle tohoto písmene splňovat vedle uvedených osob rovněž vedoucí této organizační složky; tento základní kvalifikační požadavek musí dodavatel splňovat jak ve vztahu k území České republiky, tak k zemi svého sídla, místa podnikání či bydliště,
 c) který v posledních 3 letech nenaplnil skutkovou podstatu jednání nekalé soutěže formou podplácení podle § 49 obchodního zákoníku,
+
 d) vůči jehož majetku neprobíhá nebo v posledních 3 letech neproběhlo insolvenční řízení, v němž bylo vydáno rozhodnutí o úpadku nebo insolvenční návrh nebyl zamítnut proto, 
    že majetek nepostačuje k úhradě nákladů insolvenčního řízení, nebo nebyl konkurs zrušen proto, že majetek byl zcela nepostačující nebo zavedena nucená správa podle zvláštních právních předpisů,
+
 e) který není v likvidaci,
+
 f) který nemá v evidenci daní zachyceny daňové nedoplatky, a to jak v České republice, tak v zemi sídla, místa podnikání či bydliště dodavatele,
+
 g) který nemá nedoplatek na pojistném a na penále na veřejné zdravotní pojištění, a to jak v České republice, tak v zemi sídla, místa podnikání či bydliště dodavatele,
+
 h) který nemá nedoplatek na pojistném a na penále na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, a to jak v České republice, tak v zemi sídla, místa podnikání 
    či bydliště dodavatele,
+
 i) který nebyl v posledních 3 letech pravomocně disciplinárně potrestán či mu nebylo pravomocně uloženo kárné opatření podle zvláštních právních předpisů
+
 j) který není veden v rejstříku osob se zákazem plnění veřejných zakázek a
+
 k) kterému nebyla v posledních 3 letech pravomocně uložena pokuta za umožnění výkonu nelegální práce podle § 5 písm. e) bod 3 zákona č. 435/2004 Sb., o zaměstnanosti, 
    ve znění pozdějších předpisů.
 
