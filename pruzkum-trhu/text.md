@@ -80,15 +80,11 @@ Požadované informace:
 	
 Matice technické způsobilosti
 
-Požadavek
-na úrovni organizace dodavatele
-na úrovni členů realizačního týmu
-certifikace ISO 9001
-Ano
-N/A
-certifikace ISO 27000
-Ano
-N/A
+Požadavek              | na úrovni organizace dodavatele | na úrovni členů realizačního týmu |
+-----------------------------------------------------------------------------------------------
+certifikace ISO 9001   | Ano                             | N/A |
+certifikace ISO 27000  | Ano                             | N/A |
+-----------------------------------------------------------------------------------------------
 certifikace ISO 20000
 Ano
 N/A
