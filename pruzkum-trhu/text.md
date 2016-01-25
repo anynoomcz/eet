@@ -89,46 +89,21 @@ Matice technické způsobilosti
 |zkušenosti s aplikačním vývojem v rámci rozsáhlých projektů systémové integrace - finanční hodnota vývoje aplikačního SW > 20 mio Kč, finanční hodnota projektu > 50 mio Kč |dvě projektové reference|dva členové expertního týmu po jedné projektové referenci|
 |zkušenosti s výstavbou vysoce dostupných služeb (24x7, 99,9+%), včetně jejich provozní podpory|dvě projektové reference|dva členové expertního týmu po jedné projektové referenci|
 |zkušenosti s laděním výkonu a stavbou vysoce výkonných systémů (>1000 operací/sec)|dvě projektové reference|dva členové expertního týmu po jedné projektové referenci|
+|zkušenosti s integracemi se systému ve státní správě (datové schránky, základní registry, agendové systémy, …|dvě projektové reference|dva členové expertního týmu po jedné projektové referenci|
+|zkušenosti s nezávislým funkčním testováním, testovací strategie, analýza a výkon testů|dvě projektové reference|dva členové expertního týmu po jedné projektové referenci|
+|zkušenosti s životním cyklem certifikátů, generováním klíčů a využitím infrastruktury PKI|N/A|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci|
+|zkušenosti s integrací na systémy SIEM (bezpečnostní dohled) a systémy pro audit přístupů a událostí|N/A|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci|
+|zkušenosti s řízením přístupů a oprávnění ve všech vrstvách aplikace (front-end, back-end, db)|N/A|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci|
+|zkušenosti s webovými službami a doplňujícími standardy (SOAP, WSDL, WS Signature, XML Canonization, DTD, XSLT, XML Schema, UDDI),|N/A|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci|
+|zkušenosti s nastavování bezpečnostních mechanismů v souladu s bezpečnostní dokumentací dle ISO 27001|N/A|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci|
+|zkušenosti s DMS a časovými razítky, napojením aplikace na důvěryhodný archiv, či jeho stavbou,|N/A|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci|
+|zkušenosti s výstavbou ESB a tvorbou doménových modelů, obecně výstavba SOA architektur|N/A|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci|
+|zkušenosti s tvorbou intuitivních front-endů (UX), zkušenosti s implementací pravidel přístupného webu podle zákona 81/2006 Sb.|N/A|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci|
+|zkušenosti s tvorbou responsivního designu webových aplikací a portálů|N/A|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci|
+|zkušenosti s návrhem databázové architektury z hlediska vysoké dostupnosti a výkonu|N/A|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci|
+|zkušenosti s přípravou, provedením a vyhodnocením výkonnostních testů|N/A|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci|
 
-|zkušenosti s integracemi se systému ve státní správě (datové schránky, základní registry, agendové systémy, …)
-|dvě projektové reference
-|dva členové expertního týmu po jedné projektové referenci
-|zkušenosti s nezávislým funkčním testováním, testovací strategie, analýza a výkon testů
-|dvě projektové reference
-|dva členové expertního týmu po jedné projektové referenci
-|zkušenosti s životním cyklem certifikátů, generováním klíčů a využitím infrastruktury PKI
-|N/A
-|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci
-|zkušenosti s integrací na systémy SIEM (bezpečnostní dohled) a systémy pro audit přístupů a událostí
-|N/A
-|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci
-|zkušenosti s řízením přístupů a oprávnění ve všech vrstvách aplikace (front-end, back-end, db)
-|N/A
-|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci
-|zkušenosti s webovými službami a doplňujícími standardy (SOAP, WSDL, WS Signature, XML Canonization, DTD, XSLT, XML Schema, UDDI),
-|N/A
-|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci
-|zkušenosti s nastavování bezpečnostních mechanismů v souladu s bezpečnostní dokumentací dle ISO 27001
-|N/A
-|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci
-|zkušenosti s DMS a časovými razítky, napojením aplikace na důvěryhodný archiv, či jeho stavbou,
-|N/A
-|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci
-|zkušenosti s výstavbou ESB a tvorbou doménových modelů, obecně výstavba SOA architektur
-|N/A
-|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci
-|zkušenosti s tvorbou intuitivních front-endů (UX), zkušenosti s implementací pravidel přístupného webu podle zákona 81/2006 Sb.
-|N/A
-|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci
-|zkušenosti s tvorbou responsivního designu webových aplikací a portálů
-|N/A
-|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci
-|zkušenosti s návrhem databázové architektury z hlediska vysoké dostupnosti a výkonu
-|N/A
-|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci
-|zkušenosti s přípravou, provedením a vyhodnocením výkonnostních testů
-|N/A
-|jeden člen expertního týmu a dva další členové realizačního týmu po jedné projektové referenci
+
 
 ### 2.3 Licenční požadavky 
 Pro části aplikace vytvořené přímo pro projekty SPCSS požaduje SPCSS postoupení oprávnění k výkonu majetkových práv autorských SPCSS nebo zákazníkům SPCSS.
